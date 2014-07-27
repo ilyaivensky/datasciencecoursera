@@ -1,5 +1,6 @@
 ## This function creates a special "matrix" object (environment)
-## that can cache its inverse and has the following functionalities:
+## that stores matrix and its inverse
+## That object has the following functionalities:
 ## 1. set the value of the matrix
 ## 2. get the value of the matrix
 ## 3. set the value of the inverse
