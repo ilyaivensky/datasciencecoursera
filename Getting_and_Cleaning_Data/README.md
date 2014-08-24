@@ -8,7 +8,7 @@ The files included the package
 
 - 'README.md'
 
-- 'CodeBook.md': Shows information about the dataset and variables used on the feature vector.
+- 'CodeBook.md': Shows information about the dataset and variables used in the feature vector.
 
 - 'run_analysis.R': The script to process original dataset https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and obtain 'all_data_mean_std.txt' file   
 
