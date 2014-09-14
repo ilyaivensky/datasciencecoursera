@@ -47,6 +47,8 @@ The set of variables that were estimated from these signals are:
 - mean(): Mean value
 - std(): Standard deviation
 
+Features gravityMean, tBodyAccMean, tBodyAccJerkMean, tBodyGyroMean, tBodyGyroJerkMean from original dataset are intentionally not included to the list of selected features because they are stand alone features in terms of original dataset, i.e. their underlying data was not included into original dataset. In the current activity we were interested only in mean and standard deviation of feature groups included into original dataset. 
+
 Complete list of features 
 =========================
 
